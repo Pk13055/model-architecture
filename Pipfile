@@ -10,10 +10,10 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-image = "*"
-ipython = "*"
-opencv-python = "*"
 
 [dev-packages]
+jupyter = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.6"
